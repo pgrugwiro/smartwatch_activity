@@ -1,4 +1,4 @@
-# Activity_Monitor
+# Smartwatch Activity
 Activity monitoring using smartphone and smart watch. Opensource dataset from UCI ML Dataset repository at: https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+
 
 The objective of this project is to build a model that would accurately recognize the physical activity being
